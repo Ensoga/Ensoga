@@ -4,5 +4,3 @@ I am a student of Robotics and Industrial Engineering.
 
 - 🔭 I’m currently working on my Bachelor Degree Project.
 - 📫 How to reach me: ensoga@gmail.com
-
-This is my personal repository where I upload random things.
